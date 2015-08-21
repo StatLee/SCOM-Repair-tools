@@ -1,0 +1,15 @@
+﻿<Project>
+  <Version>1</Version>
+  <FileID>4f9fcc27-4f6b-45df-b35e-40e7d7fb7e3b</FileID>
+  <ProjectType>0</ProjectType>
+  <Files>
+    <File ReferenceName="" Build="0">Startup.pss</File>
+    <File ReferenceName="Call-Global_ps1" Build="0" CommandExtension="True">Globals.ps1</File>
+    <File ReferenceName="Call-MainForm_psf" Build="0">MainForm.psf</File>
+    <File ReferenceName="Call-RemoteManage_psf" Build="0">RemoteManage.psf</File>
+    <File ReferenceName="Call-SCOMConnect_ps1" Build="0" CommandExtension="False">SCOMConnect.ps1</File>
+    <File ReferenceName="Call-MonitorAndRule_psf" Build="0">MonitorAndRule.psf</File>
+    <File ReferenceName="Call-Test_psf" Build="0">Test.psf</File>
+    <File ReferenceName="Call-login_psf" Build="0">login.psf</File>
+  </Files>
+</Project>
